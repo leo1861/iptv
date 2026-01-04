@@ -50,10 +50,10 @@ CHC家庭影院,http://172.31.98.1:4022/rtp/239.69.1.243:11100
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
 翡翠台,http://rihou.cc:555/tv/[Pd]无线翡4K
-Channel U,http://rihou.cc:555/tv/[Pd]CHU综合
-Channel 5,http://rihou.cc:555/tv/[Pd]CH5综合
-Channel 8,http://rihou.cc:555/tv/[Pd]CH8综合
-KBS World,https://live.catvod.com/live.php?id=KBS
+#EXTINF:-1 tvg-id="ChannelU.sg" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/logos/ChannelU.png",Channel U,http://rihou.cc:555/tv/[Pd]CHU综合
+#EXTINF:-1 tvg-id="ChannelU.sg" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/logos/Channel5.png",Channel 5,http://rihou.cc:555/tv/[Pd]CH5综合
+#EXTINF:-1 tvg-id="ChannelU.sg" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/logos/Channel8.png",Channel 8,http://rihou.cc:555/tv/[Pd]CH8综合
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/logos/KBSWorld.png",KBS World,https://live.catvod.com/live.php?id=KBS
 新动漫,http://172.31.98.1:4022/rtp/239.69.1.187:10764
 卡酷少儿,http://172.31.98.1:4022/rtp/239.69.1.193:10800
 金鹰卡通,http://172.31.98.1:4022/rtp/239.69.1.248:11130
