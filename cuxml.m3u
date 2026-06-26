@@ -1,59 +1,59 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV4K" group-title="4K超高清",CCTV4K
 http://172.31.98.1:4022/rtp/228.0.0.188:6108
-#EXTINF:-1 tvg-name="北京卫视4K" group-title="4K超高清",北京卫视4K
+#EXTINF:-1 tvg-name="北京卫视" group-title="4K超高清",北京卫视4K
 rtsp://122.191.52.171/PLTV/88888888/224/3221226240/512273981.smil?rrsip=122.191.63.72,rrsip=122.191.52.171,rrsip=122.191.63.72&zoneoffset=480&icpid=116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E2iANX4Sq1vN_6WQXGXCCQQ%7EVqx3uV-ZHw_gFYqM5SY5hki3MGH1me_nLAJno_BWZSDQOGwNT3b-ub50wIOie3jkbX8IzllNEp4FXHBHIHa16qUn7RtDfWiq_0NXMfXy6nY%7EExtInfoWNHSPSTb-3AG0FnUkYLPMw%3A20260123141025%2C10500003863512%2C58.19.95.25%2C20260123141025%2CHBGD1099046553413197824376375621%2C10001000910412%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C512273981%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-name="广东卫视4K" group-title="4K超高清",广东卫视4K
+#EXTINF:-1 tvg-name="广东卫视" group-title="4K超高清",广东卫视4K
 rtsp://122.191.52.171/PLTV/88888888/224/3221226238/530615625.smil?rrsip=122.191.63.72,rrsip=122.191.52.171,rrsip=122.191.63.72&zoneoffset=480&icpid=116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EAr5Rq4jnw1pUODPZWm0Fsg%7EVqx3uV-ZHw_gFYqM5SY5hki3MGH1me_nLAJno_BWZSDQOGwNT3b-ub50wIOie3jkbX8IzllNEp4FXHBHIHa16qUn7RtDfWiq_0NXMfXy6nY%7EExtInfoWNHSPSTb-3AG0FnUkYLPMw%3A20260123141025%2C10500003863512%2C58.19.95.25%2C20260123141025%2CHBGD1134933830009212928312052749%2C10001000910412%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C530615625%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-name="深圳卫视4K" group-title="4K超高清",深圳卫视4K
+#EXTINF:-1 tvg-name="深圳卫视" group-title="4K超高清",深圳卫视4K
 rtsp://122.191.52.171/PLTV/88888888/224/3221226255/530615621.smil?rrsip=122.191.63.72,rrsip=122.191.52.171,rrsip=122.191.63.72&zoneoffset=480&icpid=116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ErfPTxc5Fbm9o0LN8op_OHQ%7EVqx3uV-ZHw_gFYqM5SY5hki3MGH1me_nLAJno_BWZSDQOGwNT3b-ub50wIOie3jkbX8IzllNEp4FXHBHIHa16qUn7RtDfWiq_0NXMfXy6nY%7EExtInfoWNHSPSTb-3AG0FnUkYLPMw%3A20260123141025%2C10500003863512%2C58.19.95.25%2C20260123141025%2CHBGD1134934009353457664504975325%2C10001000910412%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C530615621%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-name="东方卫视4K" group-title="4K超高清",东方卫视4K
+#EXTINF:-1 tvg-name="东方卫视" group-title="4K超高清",东方卫视4K
 rtsp://122.191.52.171/PLTV/88888888/224/3221226229/545011728.smil?rrsip=122.191.63.72,rrsip=122.191.52.171,rrsip=122.191.63.72&zoneoffset=480&icpid=116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EvzXHEVKjKHdciMqAqgv1FQ%7EVqx3uV-ZHw_gFYqM5SY5hki3MGH1me_nLAJno_BWZSDQOGwNT3b-ub50wIOie3jkbX8IzllNEp4FXHBHIHa16qUn7RtDfWiq_0NXMfXy6nY%7EExtInfoWNHSPSTb-3AG0FnUkYLPMw%3A20260123141025%2C10500003863512%2C58.19.95.25%2C20260123141025%2CHBGD1161023780712493056528252825%2C10001000910412%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C545011728%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-name="江苏卫视4K" group-title="4K超高清",江苏卫视4K
+#EXTINF:-1 tvg-name="江苏卫视" group-title="4K超高清",江苏卫视4K
 rtsp://122.191.52.171/PLTV/88888888/224/3221226252/545012250.smil?rrsip=122.191.63.72,rrsip=122.191.52.171,rrsip=122.191.63.72&zoneoffset=480&icpid=116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EapSm5-v_gVudDJa5zgtRnA%7EVqx3uV-ZHw_gFYqM5SY5hki3MGH1me_nLAJno_BWZSDQOGwNT3b-ub50wIOie3jkbX8IzllNEp4FXHBHIHa16qUn7RtDfWiq_0NXMfXy6nY%7EExtInfoWNHSPSTb-3AG0FnUkYLPMw%3A20260123141025%2C10500003863512%2C58.19.95.25%2C20260123141025%2CHBGD1161024061978324992408004965%2C10001000910412%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C545012250%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-name="浙江卫视4K" group-title="4K超高清",浙江卫视4K
+#EXTINF:-1 tvg-name="浙江卫视" group-title="4K超高清",浙江卫视4K
 rtsp://122.191.52.171/PLTV/88888888/224/3221226259/545012255.smil?rrsip=122.191.63.72,rrsip=122.191.52.171,rrsip=122.191.63.72&zoneoffset=480&icpid=116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E9zrRUt70G2QT5NXFW08LZA%7EVqx3uV-ZHw_gFYqM5SY5hki3MGH1me_nLAJno_BWZSDQOGwNT3b-ub50wIOie3jkbX8IzllNEp4FXHBHIHa16qUn7RtDfWiq_0NXMfXy6nY%7EExtInfoWNHSPSTb-3AG0FnUkYLPMw%3A20260123141025%2C10500003863512%2C58.19.95.25%2C20260123141025%2CHBGD1161024372223684608826694195%2C10001000910412%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C545012255%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-name="山东卫视4K" group-title="4K超高清",山东卫视4K
+#EXTINF:-1 tvg-name="山东卫视" group-title="4K超高清",山东卫视4K
 rtsp://122.191.52.171/PLTV/88888888/224/3221226233/545012260.smil?rrsip=122.191.63.72,rrsip=122.191.52.171,rrsip=122.191.63.72&zoneoffset=480&icpid=116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E3uNjenx58M_uvb4aUj5-Hw%7EVqx3uV-ZHw_gFYqM5SY5hki3MGH1me_nLAJno_BWZSDQOGwNT3b-ub50wIOie3jkbX8IzllNEp4FXHBHIHa16qUn7RtDfWiq_0NXMfXy6nY%7EExtInfoWNHSPSTb-3AG0FnUkYLPMw%3A20260123141025%2C10500003863512%2C58.19.95.25%2C20260123141025%2CHBGD1161024518465400832464405079%2C10001000910412%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C545012260%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-name="湖南卫视4K" group-title="4K超高清",湖南卫视4K
+#EXTINF:-1 tvg-name="湖南卫视" group-title="4K超高清",湖南卫视4K
 rtsp://122.191.52.171/PLTV/88888888/224/3221226237/545012881.smil?rrsip=122.191.63.72,rrsip=122.191.52.171,rrsip=122.191.63.72&zoneoffset=480&icpid=116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E4DATYuFvw0vi6DCrrDH3Jw%7EVqx3uV-ZHw_gFYqM5SY5hki3MGH1me_nLAJno_BWZSDQOGwNT3b-ub50wIOie3jkbX8IzllNEp4FXHBHIHa16qUn7RtDfWiq_0NXMfXy6nY%7EExtInfoWNHSPSTb-3AG0FnUkYLPMw%3A20260123141025%2C10500003863512%2C58.19.95.25%2C20260123141025%2CHBGD1161024675055546368175052165%2C10001000910412%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C545012881%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-name="四川卫视4K" group-title="4K超高清",四川卫视4K
+#EXTINF:-1 tvg-name="四川卫视" group-title="4K超高清",四川卫视4K
 rtsp://122.191.52.171/PLTV/88888888/224/3221226256/545012885.smil?rrsip=122.191.63.72,rrsip=122.191.52.171,rrsip=122.191.63.72&zoneoffset=480&icpid=116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXhzCKYYhjh2sLR0Zm1m2OQ%7EVqx3uV-ZHw_gFYqM5SY5hki3MGH1me_nLAJno_BWZSDQOGwNT3b-ub50wIOie3jkbX8IzllNEp4FXHBHIHa16qUn7RtDfWiq_0NXMfXy6nY%7EExtInfoWNHSPSTb-3AG0FnUkYLPMw%3A20260123141025%2C10500003863512%2C58.19.95.25%2C20260123141025%2CHBGD1161024782644719616300513999%2C10001000910412%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C545012885%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-name="CCTV-1" group-title="央视",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV-1
 http://172.31.98.1:4022/rtp/228.0.0.1:6108
-#EXTINF:-1 tvg-name="CCTV-2" group-title="央视",CCTV-2
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视",CCTV-2
 http://172.31.98.1:4022/rtp/228.0.0.2:6108
-#EXTINF:-1 tvg-name="CCTV-3" group-title="央视",CCTV-3
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视",CCTV-3
 http://172.31.98.1:4022/rtp/228.0.0.156:7156
-#EXTINF:-1 tvg-name="CCTV-4" group-title="央视",CCTV-4
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视",CCTV-4
 http://172.31.98.1:4022/rtp/228.0.0.143:7143
-#EXTINF:-1 tvg-name="CCTV-5" group-title="央视",CCTV-5
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视",CCTV-5
 http://172.31.98.1:4022/rtp/228.0.0.112:6108
-#EXTINF:-1 tvg-name="CCTV-5+" group-title="央视",CCTV-5+
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视",CCTV-5+
 http://172.31.98.1:4022/rtp/228.0.0.17:6108
-#EXTINF:-1 tvg-name="CCTV-6" group-title="央视",CCTV-6
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视",CCTV-6
 http://172.31.98.1:4022/rtp/228.0.0.157:7157
-#EXTINF:-1 tvg-name="CCTV-7" group-title="央视",CCTV-7
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视",CCTV-7
 http://172.31.98.1:4022/rtp/228.0.0.7:6108
-#EXTINF:-1 tvg-name="CCTV-8" group-title="央视",CCTV-8
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视",CCTV-8
 http://172.31.98.1:4022/rtp/228.0.0.158:7158
-#EXTINF:-1 tvg-name="CCTV-9" group-title="央视",CCTV-9
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视",CCTV-9
 http://172.31.98.1:4022/rtp/228.0.0.9:6108
-#EXTINF:-1 tvg-name="CCTV-10" group-title="央视",CCTV-10
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视",CCTV-10
 http://172.31.98.1:4022/rtp/228.0.0.10:6108
-#EXTINF:-1 tvg-name="CCTV-11" group-title="央视",CCTV-11
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视",CCTV-11
 http://172.31.98.1:4022/rtp/228.0.0.242:6108
-#EXTINF:-1 tvg-name="CCTV-12" group-title="央视",CCTV-12
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视",CCTV-12
 http://172.31.98.1:4022/rtp/228.0.0.12:6108
-#EXTINF:-1 tvg-name="CCTV-13" group-title="央视",CCTV-13
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视",CCTV-13
 http://172.31.98.1:4022/rtp/228.0.0.202:6108
-#EXTINF:-1 tvg-name="CCTV-14" group-title="央视",CCTV-14
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视",CCTV-14
 http://172.31.98.1:4022/rtp/228.0.0.14:6108
-#EXTINF:-1 tvg-name="CCTV-15" group-title="央视",CCTV-15
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视",CCTV-15
 http://172.31.98.1:4022/rtp/228.0.0.15:6108
-#EXTINF:-1 tvg-name="CCTV-16" group-title="央视",CCTV-16
+#EXTINF:-1 tvg-name="CCTV16" group-title="央视",CCTV-16
 http://172.31.98.1:4022/rtp/228.0.0.249:6108
-#EXTINF:-1 tvg-name="CCTV-17" group-title="央视",CCTV-17
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视",CCTV-17
 http://172.31.98.1:4022/rtp/228.0.0.161:7161
 #EXTINF:-1 tvg-name="CCTV4K" group-title="央视",CCTV4K
 http://172.31.98.1:4022/rtp/228.0.0.188:6108
